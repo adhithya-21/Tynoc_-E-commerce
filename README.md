@@ -131,7 +131,8 @@ Add screenshots captured from the running application here before submitting:
 
 | Storefront | Product detail |
 |---|---|
-| ![Form & Field storefront](./screenshots/storefront.png) | ![Form & Field product detail](./screenshots/product-detail.png) |
+| ![Form & Field storefront](src/screenshot/store UI.png)
+| ![Form & Field product detail](src/screenshots/product UI.png) |
 
 ## Production considerations
 
