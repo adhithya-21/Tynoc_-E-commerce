@@ -129,7 +129,7 @@ npm run build
 
 | Storefront | Product detail |
 |---|---|
-| ![Form & Field storefront](./src/screenshot/store%20UI.png) | ![Form & Field product detail](./src/screenshot/product%20UI.png) |
+| ![Form & Field storefront](./screenshots/storefront.png) | ![Form & Field product detail](./screenshots/product-detail.png) |
 
 ## Production considerations
 
