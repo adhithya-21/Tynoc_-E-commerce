@@ -117,7 +117,7 @@ Copy-Item .env.example .env.local
 npm run dev
 ```
 
-Visit [http://localhost:3000](http://localhost:3000). Without a configured DynamoDB table, the app runs in demo mode. Production checks:
+Visit [tynoc-e-commerce.vercel.app](https://tynoc-e-commerce.vercel.app/) the app runs in demo mode. Production checks:
 
 ```powershell
 npm run typecheck
